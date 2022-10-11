@@ -41,12 +41,12 @@
  * here we define this default string as the date where the latest release
  * version was tagged.
  */
-#define STRING_DISTRIBUTION_DATE "2022-10-07"
+#define STRING_DISTRIBUTION_DATE "2022-10-11"
 
 /**
  * Defines a generic printer name to be output to the LCD after booting Marlin.
  */
-#define MACHINE_NAME "豆子的3D打印机"
+#define MACHINE_NAME "小树T4"
 
 /**
  * The SOURCE_CODE_URL is the location where users will find the Marlin Source
